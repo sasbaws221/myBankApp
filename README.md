@@ -15,9 +15,9 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a  target="_blank"><b>BR20</b></a>. 
+This repository contains the code of a first of its kind banking app from , <a  target="_blank"><b>BR20</b></a>. 
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+If you prefer visual learning, this is the perfect resource for you.
 
 ## <a name="introduction">🤖 Introduction</a>
 
